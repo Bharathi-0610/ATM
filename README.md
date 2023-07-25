@@ -5,7 +5,7 @@ Welcome to the ATM Software mini-project! This software is developed in the C pr
 Getting Started
 To use this ATM software, follow the instructions below:
 
-Clone or download the repository: git clone https://github.com/your-username/atm-software.git
+Clone or download the repository: git clone https://github.com/Bharathi-0610/ATM.
 Navigate to the project directory: cd atm-software
 Compile the C program: gcc atm.c -o atm
 Run the ATM software: ./atm
